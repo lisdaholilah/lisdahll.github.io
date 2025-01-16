@@ -26,7 +26,7 @@ Berdasarkan data ekspor yang didapatkan dari Badan Pusat Statistik India merupak
 2. Bagaimana jika Indonesia tidak melakukan ekspor CPO ke India?
 
 ### Tujuan dan manfaat penelitian
-Bagian ini merupakan jawaban yang akan dicapai dari pembahasan laporan, biasanya dirumuskan dari poin-poin masalah yang telah dijabarkan sebelumnya. Identifikasi siapa saja stakeholders yang dapat memanfaatkan penelitian ini.
+Tujuan dan manfaat penelitian ini sendiri adalah untuk menyelesaikan tugas mata kuliah metodologi penelitian dan mengetahui apakah ekspor CPO ke India sebagai pasar utama memiliki pengaruh signifikan terhadap PDB di Indonesia. Sebagaimana yang diketahui bahwa ekspor dan impor memiliki pengaruh terhadap PDB. Selain berpengaruh terhadap PDB, peningkatan ekspor juga berpengaruh terhadap permintaan barang dan jasa. Selain itu karena CPO merupakan komoditas ekspor terbesar di Indonesia. Diharapkan penelitian ini bisa memberi jawaban penulis dan menjadi pembelajaran yang bermanfaat di masa yang akan datang. 
 
 ### Package
 Packages yang digunakan antara lain sebagai berikut:
